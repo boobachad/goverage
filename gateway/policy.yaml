@@ -1,0 +1,5 @@
+rules:
+  - action: "data.read"
+    effect: "allow"
+    conditions:
+      agent_id: "agent-reader"

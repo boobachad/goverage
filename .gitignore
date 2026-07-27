@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+bun.lockb
+
+__pycache__/
+*.pyc
+.venv/
+*.log
+
+gateway/gateway
+
+.env
+
+# Agent identity keypairs gen by python script during init of it
+agents/*.json
