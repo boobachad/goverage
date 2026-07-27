@@ -2,6 +2,8 @@
 
 An AI agent governance gateway that enforces token budgets, ABAC policies, identity verification, kill-switches, and lifecycle management on LLM calls — with a real-time React dashboard.
 
+[Video showing working of the goverage system](bideo.mp4)
+
 ## Architecture
 
 ```
