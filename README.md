@@ -4,6 +4,8 @@ An AI agent governance gateway that enforces token budgets, ABAC policies, ident
 
 [Video showing working of the goverage system](bideo.mp4)
 
+[Video showing working of the goverage system](https://github.com/user-attachments/assets/3ce3fd83-92b6-41bb-b0bb-24f0692f9070)
+
 ## Architecture
 
 ```
